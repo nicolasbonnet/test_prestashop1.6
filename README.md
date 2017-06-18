@@ -1,0 +1,1 @@
+test_prestashop1.6
